@@ -15,3 +15,6 @@ After the necessary information is provided, the service request will be sent to
 
 FIGMA LINK TO UI :
 https://www.figma.com/file/DYsVukRiZUSljHCOJAQa1b/ROOMEAZE?node-id=143%3A12234&t=z8cQUtLmKDnyJLlL-1
+
+DEMO LINK TO PROTOTYPE:
+https://youtu.be/KmqHMT8jXFc
